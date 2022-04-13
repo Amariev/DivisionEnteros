@@ -8,12 +8,12 @@ Algoritmo de división de enteros para enteros sin signo
 
 **Clonar repositorio**
 ```
-git clone adjfhaskdjhad
+git clone https://github.com/CamiaCL/DivisionEnteros.git
 ```
 
 **Entrar al directorio**
 ```
-$ cd <nombrerepo>
+$ cd DivisionEnteros
 ```
 
 **Compilar**
